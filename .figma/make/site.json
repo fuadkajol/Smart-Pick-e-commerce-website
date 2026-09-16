@@ -1,7 +1,9 @@
 {
+  "title": "Smart Pick - E-Commerce Website",
   "description": "Design and launch stunning, user-friendly websites effortlessly, tailored for businesses and individuals seeking a professional online presence.",
+  "language": "en",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
