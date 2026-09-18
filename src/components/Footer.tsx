@@ -202,7 +202,7 @@ export default function Footer() {
                   rel="noopener noreferrer"
                   className="hover:text-white transition-colors"
                 >
-                  SmartPick
+                  facebook.com/hotline.smartpick
                 </a>
               </li>
               <li>
@@ -213,7 +213,7 @@ export default function Footer() {
                   rel="noopener noreferrer"
                   className="hover:text-white transition-colors"
                 >
-                  @hotline.smartpick
+                  pinterest.com/hotlinesmartpick
                 </a>
               </li>
             </ul>
