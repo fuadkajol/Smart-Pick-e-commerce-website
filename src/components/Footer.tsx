@@ -71,7 +71,7 @@ export default function Footer() {
             {/* Social */}
             <div className="flex gap-3 mt-5">
               <a
-                href="https://facebook.com/Smartpickk"
+                href="https://facebook.com/hotline.smartpick"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 bg-slate-800 hover:bg-blue-600 rounded-lg flex items-center justify-center transition-colors"
@@ -85,7 +85,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="https://pinterest.com/hotline.smartpick"
+                href="https://pinterest.com/hotlinesmartpick"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 bg-slate-800 hover:bg-red-600 rounded-lg flex items-center justify-center transition-colors"
@@ -197,18 +197,18 @@ export default function Footer() {
               <li className="pt-1">
                 <p className="text-slate-500 text-xs mb-1">Facebook</p>
                 <a
-                  href="https://facebook.com/Smartpickk"
+                  href="https://facebook.com/hotline.smartpick"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-white transition-colors"
                 >
-                  Smartpick
+                  SmartPick
                 </a>
               </li>
               <li>
                 <p className="text-slate-500 text-xs mb-1">Pinterest</p>
                 <a
-                  href="https://pinterest.com/hotline.smartpick"
+                  href="https://pinterest.com/hotlinesmartpick"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-white transition-colors"
@@ -223,7 +223,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="mt-12 pt-8 border-t border-slate-800 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-slate-500">
-            © 2026 Smart Pick. All rights reserved.
+            © 2026 SmartPick. All rights reserved.
           </p>
           <div className="flex items-center gap-3 flex-wrap justify-center">
             {["Cash on Delivery", "bKash", "Nagad", "Card"].map((method) => (
